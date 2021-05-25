@@ -1,0 +1,20 @@
+{
+  "name": "puppy-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "serve ./src"
+  },
+  "keywords": [
+    "JavaScript",
+    "SPA"
+  ],
+  "author": "dapino",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.1",
+    "serve": "^11.3.2"
+  }
+}
